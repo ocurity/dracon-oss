@@ -1,4 +1,4 @@
-# Dracon
+# Smithy (formerly Dracon)
 
 <p align="center">
   <img alt="dracon-logo-dark-mode" src="assets/dracon-logo-light.svg#gh-dark-mode-only"/>
